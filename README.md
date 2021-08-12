@@ -63,8 +63,7 @@ npm start
 6. If you want to delete any of the notes, click on the "bin" icon at the right of the note on the left hand side of the page.
 
 ## Deployment on Heroku
-On Heroku
-
+https://evening-lowlands-85052.herokuapp.com/
 
 ## URL of GitHub repository
 https://github.com/rachel-brain/handy-note-taker
