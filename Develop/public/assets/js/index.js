@@ -1,6 +1,3 @@
-// Access packages needed for the application
-const fs = require('fs');
-
 let noteTitle;
 let noteText;
 let saveNoteBtn;
