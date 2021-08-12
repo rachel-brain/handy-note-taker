@@ -66,5 +66,5 @@ npm start
 On Heroku
 
 
-## Deployment on GitHub
+## URL of GitHub repository
 https://github.com/rachel-brain/handy-note-taker
